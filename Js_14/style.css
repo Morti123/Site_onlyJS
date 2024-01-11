@@ -1,0 +1,21 @@
+
+.app{ 
+    width: 19vw; 
+    height: 22vw; 
+    border: rgb(158, 147, 147, 0.5) 1px solid; 
+    margin-top: 10px; 
+    } 
+    .img{ 
+      width: 14vw; 
+      height: 10vw; 
+      object-fit:contain; 
+      display: flex; 
+      align-items: center; 
+      } 
+      .container{ 
+        display: flex; 
+        flex-wrap: wrap; 
+     justify-content: space-around; 
+     
+      }
+    
